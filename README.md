@@ -2,7 +2,7 @@ gopaths [![GoDoc](https://godoc.org/github.com/pietv/gopaths?status.png)](https:
 =======
 Go packages indexer. It searches for Go packages in GOROOT and GOPATH
 directories and then responds to shorter package paths with full paths.
-Useful together with 'cd' and 'godoc' commands.
+Useful together with 'cd' and 'godoc' commands
 
 Install
 =======
