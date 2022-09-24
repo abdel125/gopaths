@@ -7,8 +7,8 @@ Useful together with 'cd' and 'godoc' commands.
 Install
 =======
 ```shell
-$ go get github.com/pietv/gopaths
-$ go install github.com/pietv/gopaths
+$ go get github.com/abdel125/gopaths
+$ go install github.com/abdel125/gopaths
 ```
 
 Usage
